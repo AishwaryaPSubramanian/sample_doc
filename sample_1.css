@@ -35,7 +35,7 @@ div:after {
 	float: left;
 	position: relative;
 	clear: right;
-	overflow: auto;
+	overflow: hidden;
 }
 #section1{
 	background-color: #f67280;
@@ -49,7 +49,7 @@ div:after {
 	float: left;
 	position: relative;
 	clear: right;
-	overflow: auto;
+	overflow: hidden;
 }
 #sun{
 	background-color: #d63447;
